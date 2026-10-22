@@ -56,8 +56,8 @@ Duckvaulta EdTech AI transforms lengthy study materials, thick PDF textbooks, pr
 
 ## 🚀 Live Access
 
-* **Web Application:** [https://duckvaulta.ai.id/edtech/](https://duckvaulta.ai.id/edtech/)
-* **Subdomain Ready:** `edtech.duckvaulta.ai.id` (Configured under Nginx reverse proxy)
+* **Web Application:** [https://edtech.duckvaulta.ai.id/](https://edtech.duckvaulta.ai.id/)
+* **Fallback Mirror:** [https://duckvaulta.ai.id/edtech/](https://duckvaulta.ai.id/edtech/)
 
 ---
 
